@@ -1,4 +1,2 @@
-# git-test
-# git-test
-# git test12
-# git-test
+# TIL
+* 제발 공부좀 하자
