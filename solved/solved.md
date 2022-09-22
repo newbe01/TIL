@@ -1,2 +1,2 @@
 # 알고리즘 문제 풀이
- * [백준]
+ * [백준](https://github.com/newbe01/TIL/blob/main/solved/solved.md)
