@@ -1,4 +1,4 @@
-package newbie01.DP;
+package DP;
 
 import java.io.*;
 import java.util.Scanner;
