@@ -12,11 +12,11 @@ public class 평균구하기 {
         double answer = 0;
         int sum = 0;
 
-        for(int i = 0; i < arr.length; i++){
+        for(int i = 0; i < arr.length; i++){ //길이만큼 돌면서 sum 에 값 더함
             sum += arr[i];
         }
 
-        answer = sum / (double)arr.length;
+        answer = sum / (double)arr.length;  // 합계를 길이로나눔 소수점 반환해야하기때문에 double 형변환
 
         return answer;
     }
