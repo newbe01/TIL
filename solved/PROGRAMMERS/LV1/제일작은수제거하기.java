@@ -19,8 +19,8 @@ public class 제일작은수제거하기 {
             answer[0] = -1;
         }else{
             answer = new int[arr.length-1];
-            
-            int arr1[] = arr.clone();   
+
+            int arr1[] = arr.clone();   //배열 복사후 정렬해서 최소값 찾기   
             Arrays.sort(arr1);
             int min = arr1[0];
 
