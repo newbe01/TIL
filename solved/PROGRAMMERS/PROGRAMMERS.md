@@ -12,3 +12,4 @@
     * [콜라츠추측](https://github.com/newbe01/TIL/blob/main/solved/PROGRAMMERS/LV1/콜라츠추측.java)
     * [두정수사이의합](https://github.com/newbe01/TIL/blob/main/solved/PROGRAMMERS/LV1/두정수사이의합.java)
     * [서울에서김서방찾기](https://github.com/newbe01/TIL/blob/main/solved/PROGRAMMERS/LV1/서울에서김서방찾기.java)
+    * [나누어떨어지는숫자배열](https://github.com/newbe01/TIL/blob/main/solved/PROGRAMMERS/LV1/나누어떨어지는숫자배열.java)
