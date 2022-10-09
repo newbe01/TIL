@@ -15,3 +15,4 @@
     * [나누어떨어지는숫자배열](https://github.com/newbe01/TIL/blob/main/solved/PROGRAMMERS/LV1/나누어떨어지는숫자배열.java)
     * [제일작은수제거하기](https://github.com/newbe01/TIL/blob/main/solved/PROGRAMMERS/LV1/제일작은수제거하기.java)
     * [음양더하기](https://github.com/newbe01/TIL/blob/main/solved/PROGRAMMERS/LV1/음양더하기.java)
+    * [없는숫자더하기](https://github.com/newbe01/TIL/blob/main/solved/PROGRAMMERS/LV1/없는숫자더하기.java)
