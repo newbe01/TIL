@@ -17,3 +17,6 @@
     * [음양더하기](https://github.com/newbe01/TIL/blob/main/solved/PROGRAMMERS/LV1/음양더하기.java)
     * [없는숫자더하기](https://github.com/newbe01/TIL/blob/main/solved/PROGRAMMERS/LV1/없는숫자더하기.java)
     * [수박수박수](https://github.com/newbe01/TIL/blob/main/solved/PROGRAMMERS/LV1/수박수박수.java)
+    * [가운데글자가져오기](https://github.com/newbe01/TIL/blob/main/solved/PROGRAMMERS/LV1/가운데글자가져오기.java)
+    * [내적](https://github.com/newbe01/TIL/blob/main/solved/PROGRAMMERS/LV1/내적.java)
+    * [최대공약수와최소공배수](https://github.com/newbe01/TIL/blob/main/solved/PROGRAMMERS/LV1/최대공약수와최소공배수.java)
