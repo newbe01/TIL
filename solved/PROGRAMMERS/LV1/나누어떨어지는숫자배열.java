@@ -23,7 +23,6 @@ public class 나누어떨어지는숫자배열 {
         
         ArrayList list = new ArrayList<>();
         
-        System.out.println("hi");
         for(int i = 0; i < arr.length; i++){
             if(arr[i] % divisor == 0){ //나머지는 수들을 list 에 담음
                 list.add(arr[i]); 
