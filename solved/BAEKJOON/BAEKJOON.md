@@ -6,6 +6,7 @@
     * [10826번](https://github.com/newbe01/TIL/blob/main/solved/BAEKJOON/DP/B10826_피보나치수4.java)
     * [14916번](https://github.com/newbe01/TIL/blob/main/solved/BAEKJOON/DP/B14916_거스름돈.java)
     * [2491번](https://github.com/newbe01/TIL/blob/main/solved/BAEKJOON/DP/B2491_수열.java)
+    * [2670번](https://github.com/newbe01/TIL/blob/main/solved/BAEKJOON/DP/B2670_연속부분최대곱.java)
  * Greedy
     * [1789번](https://github.com/newbe01/TIL/blob/main/solved/BAEKJOON/GREEDY/B1789_수들의합.java)
-    
+    * [11047번](https://github.com/newbe01/TIL/blob/main/solved/BAEKJOON/GREEDY/B11047_동전0.java) 
