@@ -25,3 +25,4 @@
     * [약수의개수와덧셈](https://github.com/newbe01/TIL/blob/main/solved/PROGRAMMERS/LV1/약수의개수와덧셈.java)
     * [부족한금액계산하기](https://github.com/newbe01/TIL/blob/main/solved/PROGRAMMERS/LV1/부족한금액계산하기.java) 
     * [같은숫자는싫어](https://github.com/newbe01/TIL/blob/main/solved/PROGRAMMERS/LV1/같은숫자는싫어.java) 
+    * [이상한문자만들기](https://github.com/newbe01/TIL/blob/main/solved/PROGRAMMERS/LV1/이상한문자만들기.java) 
