@@ -26,12 +26,12 @@ public class 같은숫자는싫어 {
         int[] answer = {};
         
         ArrayList<Integer> list = new ArrayList<>();
-        for(int i = 0 ; i < arr.length -1; i ++){
-            if(arr[i] != arr[i+1]){
+        for(int i = 0 ; i < arr.length -1; i ++){ 
+            if(arr[i] != arr[i+1]){ //지금수와 다음수가 다르면 배열에 담음
                 list.add(arr[i]);
             }
         }
-        list.add(arr[arr.length -1]);
+        list.add(arr[arr.length -1]);   //마지막숫자는 비교하지 못했으니
 
         answer = new int[list.size()];
 
