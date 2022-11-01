@@ -26,3 +26,4 @@
     * [부족한금액계산하기](https://github.com/newbe01/TIL/blob/main/solved/PROGRAMMERS/LV1/부족한금액계산하기.java) 
     * [같은숫자는싫어](https://github.com/newbe01/TIL/blob/main/solved/PROGRAMMERS/LV1/같은숫자는싫어.java) 
     * [이상한문자만들기](https://github.com/newbe01/TIL/blob/main/solved/PROGRAMMERS/LV1/이상한문자만들기.java) 
+    * [삼진법뒤집기](https://github.com/newbe01/TIL/blob/main/solved/PROGRAMMERS/LV1/삼진법뒤집기.java) 
