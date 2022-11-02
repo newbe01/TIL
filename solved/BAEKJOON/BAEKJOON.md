@@ -12,3 +12,4 @@
     * [1789번](https://github.com/newbe01/TIL/blob/main/solved/BAEKJOON/GREEDY/B1789_수들의합.java)
     * [11047번](https://github.com/newbe01/TIL/blob/main/solved/BAEKJOON/GREEDY/B11047_동전0.java) 
     * [1026번](https://github.com/newbe01/TIL/blob/main/solved/BAEKJOON/GREEDY/B1026_보물.java)     
+    * [2217번](https://github.com/newbe01/TIL/blob/main/solved/BAEKJOON/GREEDY/B2217_로프.java)     
